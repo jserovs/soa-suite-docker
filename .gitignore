@@ -1,0 +1,3 @@
+docker/database/oradata/**
+docker/soa-suite/data/**
+docker/soa-suite/logs/**

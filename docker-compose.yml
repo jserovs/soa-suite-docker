@@ -1,0 +1,11 @@
+services: 
+  express:
+    image: container-registry.oracle.com/database/express:latest
+    ports: 
+      - "1521:1521"
+      - "5500:5500"
+
+    volumes: 
+      - "./docker/database/oradata:/opt/oracle/oradata"
+    environment: 
+      ORACLE_PWD: powerOfDb32    
