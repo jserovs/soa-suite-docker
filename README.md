@@ -160,3 +160,6 @@ docker run -i -t --name soaas --network=SOANet -p 7001:7001 -p 8001:8001 -v "$(p
 
 
 >Additional information could be found: https://container-registry.oracle.com/ords/f?p=113:4:116748029503871:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:252,252,Oracle%20SOA%20Suite,Oracle%20SOA%20Suite,1,0&cs=3sMy1ZkPPrdW8-wgHpKNjSTxlwYgdlsVnqu1IHNx7x3EY--YnLWOtaa42XsT4019CsYSPZ_NuAmQuBqNod8-sKQ
+
+
+>Other usefull info: https://technology.amis.nl/soa/soa-suite-12c-in-docker-containers-only-a-couple-of-commands-no-installers-no-third-party-scripts/
